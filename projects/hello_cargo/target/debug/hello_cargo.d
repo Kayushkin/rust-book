@@ -1,1 +1,1 @@
-/srv/Coding/rust-book/hello_cargo/target/debug/hello_cargo: /srv/Coding/rust-book/hello_cargo/src/main.rs
+/srv/Coding/rust-book/projects/hello_cargo/target/debug/hello_cargo: /srv/Coding/rust-book/projects/hello_cargo/src/main.rs
